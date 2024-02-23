@@ -1,6 +1,7 @@
 using DIKUArcade;
 using DIKUArcade.GUI;
 using DIKUArcade.Input;
+using DIKUArcade.Events;
 
 namespace Galaga;
 public class Game : DIKUGame, IGameEventProcessor {
