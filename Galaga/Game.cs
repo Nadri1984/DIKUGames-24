@@ -27,7 +27,7 @@ public class Game : DIKUGame, IGameEventProcessor {
     }
 
 
-    public override void Update(){
+    public override void Update() {
         throw new System.NotImplementedException("Galaga game has no entities to update yet.");
     }
 
@@ -42,7 +42,7 @@ public class Game : DIKUGame, IGameEventProcessor {
 
     private void KeyHandler(KeyboardAction action, KeyboardKey key) {
         // TODO: Switch on KeyBoardAction and call proper method
-        }
+    }
 
     public void ProcessEvent(GameEvent gameEvent) {
         // Leave this empty for now

@@ -1,0 +1,326 @@
+[
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "74440152-fea5-4034-9a17-684269e9366c"
+      },
+      "Id": "e071418c-e602-428f-a293-f6b8e8093bc2"
+    },
+    "FileName": "Enemy.cs",
+    "FilePath": "/Users/omidnadri/github-classroom/DIKU-SU/DIKUGames-24/Galaga/Enemy.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 1,
+        "CharNumber": 1,
+        "DiagnosticId": "WHITESPACE",
+        "FormatDescription": "Fix whitespace formatting."
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "74440152-fea5-4034-9a17-684269e9366c"
+      },
+      "Id": "6b4b1639-857e-4262-9959-00d886532e58"
+    },
+    "FileName": "Game.cs",
+    "FilePath": "/Users/omidnadri/github-classroom/DIKU-SU/DIKUGames-24/Galaga/Game.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 1,
+        "CharNumber": 1,
+        "DiagnosticId": "WHITESPACE",
+        "FormatDescription": "Fix whitespace formatting."
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "74440152-fea5-4034-9a17-684269e9366c"
+      },
+      "Id": "6bf8ce41-2c65-4266-886e-5a5ec6d482e5"
+    },
+    "FileName": "PlayerShot.cs",
+    "FilePath": "/Users/omidnadri/github-classroom/DIKU-SU/DIKUGames-24/Galaga/PlayerShot.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 1,
+        "CharNumber": 1,
+        "DiagnosticId": "WHITESPACE",
+        "FormatDescription": "Fix whitespace formatting."
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "74440152-fea5-4034-9a17-684269e9366c"
+      },
+      "Id": "307c733e-3688-4542-9247-c3956f2e6f3c"
+    },
+    "FileName": "Program.cs",
+    "FilePath": "/Users/omidnadri/github-classroom/DIKU-SU/DIKUGames-24/Galaga/Program.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 1,
+        "CharNumber": 1,
+        "DiagnosticId": "WHITESPACE",
+        "FormatDescription": "Fix whitespace formatting."
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "74440152-fea5-4034-9a17-684269e9366c"
+      },
+      "Id": "6b4b1639-857e-4262-9959-00d886532e58"
+    },
+    "FileName": "Game.cs",
+    "FilePath": "/Users/omidnadri/github-classroom/DIKU-SU/DIKUGames-24/Galaga/Game.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 1,
+        "CharNumber": 1,
+        "DiagnosticId": "IMPORTS",
+        "FormatDescription": "Fix imports ordering."
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "74440152-fea5-4034-9a17-684269e9366c"
+      },
+      "Id": "e071418c-e602-428f-a293-f6b8e8093bc2"
+    },
+    "FileName": "Enemy.cs",
+    "FilePath": "/Users/omidnadri/github-classroom/DIKU-SU/DIKUGames-24/Galaga/Enemy.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 1,
+        "CharNumber": 1,
+        "DiagnosticId": "IDE0065",
+        "FormatDescription": "warning IDE0065: Using directives must be placed inside of a namespace declaration"
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "74440152-fea5-4034-9a17-684269e9366c"
+      },
+      "Id": "e071418c-e602-428f-a293-f6b8e8093bc2"
+    },
+    "FileName": "Enemy.cs",
+    "FilePath": "/Users/omidnadri/github-classroom/DIKU-SU/DIKUGames-24/Galaga/Enemy.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 2,
+        "CharNumber": 1,
+        "DiagnosticId": "IDE0065",
+        "FormatDescription": "warning IDE0065: Using directives must be placed inside of a namespace declaration"
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "74440152-fea5-4034-9a17-684269e9366c"
+      },
+      "Id": "6b4b1639-857e-4262-9959-00d886532e58"
+    },
+    "FileName": "Game.cs",
+    "FilePath": "/Users/omidnadri/github-classroom/DIKU-SU/DIKUGames-24/Galaga/Game.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 1,
+        "CharNumber": 1,
+        "DiagnosticId": "IDE0065",
+        "FormatDescription": "warning IDE0065: Using directives must be placed inside of a namespace declaration"
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "74440152-fea5-4034-9a17-684269e9366c"
+      },
+      "Id": "6b4b1639-857e-4262-9959-00d886532e58"
+    },
+    "FileName": "Game.cs",
+    "FilePath": "/Users/omidnadri/github-classroom/DIKU-SU/DIKUGames-24/Galaga/Game.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 2,
+        "CharNumber": 1,
+        "DiagnosticId": "IDE0065",
+        "FormatDescription": "warning IDE0065: Using directives must be placed inside of a namespace declaration"
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "74440152-fea5-4034-9a17-684269e9366c"
+      },
+      "Id": "6b4b1639-857e-4262-9959-00d886532e58"
+    },
+    "FileName": "Game.cs",
+    "FilePath": "/Users/omidnadri/github-classroom/DIKU-SU/DIKUGames-24/Galaga/Game.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 3,
+        "CharNumber": 1,
+        "DiagnosticId": "IDE0065",
+        "FormatDescription": "warning IDE0065: Using directives must be placed inside of a namespace declaration"
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "74440152-fea5-4034-9a17-684269e9366c"
+      },
+      "Id": "6b4b1639-857e-4262-9959-00d886532e58"
+    },
+    "FileName": "Game.cs",
+    "FilePath": "/Users/omidnadri/github-classroom/DIKU-SU/DIKUGames-24/Galaga/Game.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 4,
+        "CharNumber": 1,
+        "DiagnosticId": "IDE0065",
+        "FormatDescription": "warning IDE0065: Using directives must be placed inside of a namespace declaration"
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "74440152-fea5-4034-9a17-684269e9366c"
+      },
+      "Id": "7a9e57fd-50e1-461b-8792-6fee6de88ec9"
+    },
+    "FileName": "Player.cs",
+    "FilePath": "/Users/omidnadri/github-classroom/DIKU-SU/DIKUGames-24/Galaga/Player.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 1,
+        "CharNumber": 1,
+        "DiagnosticId": "IDE0065",
+        "FormatDescription": "warning IDE0065: Using directives must be placed inside of a namespace declaration"
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "74440152-fea5-4034-9a17-684269e9366c"
+      },
+      "Id": "7a9e57fd-50e1-461b-8792-6fee6de88ec9"
+    },
+    "FileName": "Player.cs",
+    "FilePath": "/Users/omidnadri/github-classroom/DIKU-SU/DIKUGames-24/Galaga/Player.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 2,
+        "CharNumber": 1,
+        "DiagnosticId": "IDE0065",
+        "FormatDescription": "warning IDE0065: Using directives must be placed inside of a namespace declaration"
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "74440152-fea5-4034-9a17-684269e9366c"
+      },
+      "Id": "6bf8ce41-2c65-4266-886e-5a5ec6d482e5"
+    },
+    "FileName": "PlayerShot.cs",
+    "FilePath": "/Users/omidnadri/github-classroom/DIKU-SU/DIKUGames-24/Galaga/PlayerShot.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 1,
+        "CharNumber": 1,
+        "DiagnosticId": "IDE0065",
+        "FormatDescription": "warning IDE0065: Using directives must be placed inside of a namespace declaration"
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "74440152-fea5-4034-9a17-684269e9366c"
+      },
+      "Id": "6bf8ce41-2c65-4266-886e-5a5ec6d482e5"
+    },
+    "FileName": "PlayerShot.cs",
+    "FilePath": "/Users/omidnadri/github-classroom/DIKU-SU/DIKUGames-24/Galaga/PlayerShot.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 2,
+        "CharNumber": 1,
+        "DiagnosticId": "IDE0065",
+        "FormatDescription": "warning IDE0065: Using directives must be placed inside of a namespace declaration"
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "74440152-fea5-4034-9a17-684269e9366c"
+      },
+      "Id": "6bf8ce41-2c65-4266-886e-5a5ec6d482e5"
+    },
+    "FileName": "PlayerShot.cs",
+    "FilePath": "/Users/omidnadri/github-classroom/DIKU-SU/DIKUGames-24/Galaga/PlayerShot.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 3,
+        "CharNumber": 1,
+        "DiagnosticId": "IDE0065",
+        "FormatDescription": "warning IDE0065: Using directives must be placed inside of a namespace declaration"
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "74440152-fea5-4034-9a17-684269e9366c"
+      },
+      "Id": "307c733e-3688-4542-9247-c3956f2e6f3c"
+    },
+    "FileName": "Program.cs",
+    "FilePath": "/Users/omidnadri/github-classroom/DIKU-SU/DIKUGames-24/Galaga/Program.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 1,
+        "CharNumber": 1,
+        "DiagnosticId": "IDE0065",
+        "FormatDescription": "warning IDE0065: Using directives must be placed inside of a namespace declaration"
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "74440152-fea5-4034-9a17-684269e9366c"
+      },
+      "Id": "307c733e-3688-4542-9247-c3956f2e6f3c"
+    },
+    "FileName": "Program.cs",
+    "FilePath": "/Users/omidnadri/github-classroom/DIKU-SU/DIKUGames-24/Galaga/Program.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 2,
+        "CharNumber": 1,
+        "DiagnosticId": "IDE0065",
+        "FormatDescription": "warning IDE0065: Using directives must be placed inside of a namespace declaration"
+      }
+    ]
+  }
+]
