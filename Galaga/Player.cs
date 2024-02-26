@@ -1,27 +1,69 @@
+
 using DIKUArcade.Entities;
 using DIKUArcade.Graphics;
+namespace Galaga{
 
-namespace Galaga;
-public class Player {
-    // TODO: Add private fields
+    public class Player {
+        private Entity entity;
+        private DynamicShape shape;
+        private float moveLeft =0.0f;
+       
+        private float moveRight= 0.0f;
+        private const float MOVEMENT_SPEED = 0.1f;
 
-    public Player(DynamicShape shape, IBaseImage image) {
-    }
+        public DynamicShape Shape{
+            get {
+                return shape;
+            }
+        }
+        
 
-    public void Render() {
-        // TODO: render the player entity
-    }
+        public Player(DynamicShape shape, IBaseImage image) {
+            entity = new Entity(shape, image);
+            this.shape = shape;
+        }
 
-    public void Move() {
-        // TODO: move the shape and guard against the window borders
-    }
+        public void Render() {
+            entity.RenderEntity();
+        }
 
-    public void SetMoveLeft(bool val) {
-        // TODO:set moveLeft appropriately and call UpdateDirection()
-    }
+        public void Move() {
+            if (((this.GetPosition() + this.moveLeft) > 0) &&
+            ((this.GetPosition() + this.shape.Extent.X + this.moveRight) < 1)) {
+            this.shape.Move();
+            }
+        }
 
-    public void SetMoveRight(bool val) {
-        // TODO:set moveRight appropriately and call UpdateDirection()
+        public void SetMoveLeft(bool val) {
+            if (val){
+                this.moveLeft = -MOVEMENT_SPEED;
+
+            }else{
+                this.moveLeft = 0;
+            }
+            this.UpdateDirection();
+        }
+
+        public void SetMoveRight(bool val) {
+            if (val){
+                this.moveRight = MOVEMENT_SPEED;
+
+            }else{
+                this.moveRight= 0;
+            }
+            this.UpdateDirection();
+        }
+
+        private void UpdateDirection(){
+            Shape.Direction.X += this.moveLeft + this.moveRight;
+        }
+
+        public float GetPosition(){
+            return this.shape.Position.X;
+        }
+
+
     }
 
 }
+
